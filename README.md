@@ -1,5 +1,5 @@
 # DLND_Projects
-Index my for my student projects of Udacity's "Deep Learning Nanodegree Foundation" course in August 2017
+Index for my student projects of Udacity's "Deep Learning Nanodegree Foundation" course in August 2017
 
 
 # Deep Learning Nanodegree Foundation
